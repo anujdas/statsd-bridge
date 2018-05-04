@@ -83,3 +83,8 @@ commands are:
 # Set dd-agent host, port, and metrics namespace
 > STATSD_HOST=localhost STATSD_PORT=18125 STATSD_NAME=my_stats bundle exec iodine
 ```
+
+## Links
+
+  - [Iodine](https://github.com/boazsegev/iodine) - "a fast concurrent web server for real-time Ruby applications"
+  - [Datadog](https://www.datadoghq.com/) - "modern monitoring & analytics"
