@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dogstatsd-ruby (3.3.0)
+    iodine (0.5.1)
+      rack (>= 1.0, < 3.0)
+    rack (2.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dogstatsd-ruby (~> 3.3)
+  iodine (~> 0.5)
+
+BUNDLED WITH
+   1.16.1
